@@ -15,6 +15,18 @@ The objective is to show UE registration, PDU-session establishment and traffic 
 - [Printable Week 1 guide](docs/Week_1_Public_Learning_Plan.pdf).
 - [How I update progress](CONTRIBUTING.md).
 
+## My daily task board
+
+Use the issues to check off steps and record daily learning. Update `progress.json` separately when evidence is ready; closing an issue does not change the dashboard automatically.
+
+| Day | Task checklist | Deliverables |
+|---|---|---|
+| 1 | [Scope, starting point and topology](https://github.com/rizwan3659/telecom-systems-learning-log/issues/1) | D01-D03 |
+| 2 | [Environment and pinned versions](https://github.com/rizwan3659/telecom-systems-learning-log/issues/2) | D04-D06 |
+| 3 | [Builds, tests and configuration](https://github.com/rizwan3659/telecom-systems-learning-log/issues/3) | D07-D09 |
+| 4 | [Registration, session and traffic](https://github.com/rizwan3659/telecom-systems-learning-log/issues/4) | D10-D11 |
+| 5 | [Timeline, source walk and repeat](https://github.com/rizwan3659/telecom-systems-learning-log/issues/5) | D12-D15 |
+
 ## How to read this work
 
 `Not started` means a template exists but the work has not been demonstrated. `In progress` means work is underway. `Blocked` names an unresolved prerequisite. `Done` requires a linked evidence artifact, completed acceptance checks and an honest limitations statement.
