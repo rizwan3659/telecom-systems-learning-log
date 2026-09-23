@@ -1,0 +1,13 @@
+# Private/local evidence: never publish raw credentials or operator captures.
+.env
+.env.*
+!.env.example
+private/
+runs/
+*.pcap
+*.pcapng
+*.pem
+*.key
+*.log
+__pycache__/
+.DS_Store
